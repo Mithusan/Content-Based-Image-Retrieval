@@ -1,4 +1,4 @@
-# Content-Based-Image-Retrieval-CBIR-
+# Content-Based-Image-Retrieval (CBIR)
 
 ### Algorithm Explanation In Detail:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
