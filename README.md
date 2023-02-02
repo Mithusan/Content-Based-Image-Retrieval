@@ -1,5 +1,9 @@
 # Content-Based-Image-Retrieval (CBIR)
 
+<p align="center">
+  <img width="381" alt="Screenshot_2023-01-20_084630" src="https://user-images.githubusercontent.com/115104826/216203735-49951a48-8498-4090-9e8e-47d912885dd0.png">
+</p>
+
 ### Algorithm Explanation In Detail:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The algorithm's purpose is to create a barcode to present handwritten digits. I
